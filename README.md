@@ -13,4 +13,7 @@ Y, por supuesto, las gracias a todos los autores de estos artículos/writeups/tu
 # Writeups / Casos prácticos
 - [Link](url)
 
+# Otros
+- Hay un chat en Telegram, de Informática Forense. Si no te gustan los chats en los que se habla mucho, no es tu chat, pero entre tanto mensaje, comparten recursos e información bastante interesante y útil. 
+-- [Chat Telegram Informática Forense] (https://t.me/forense)
 
